@@ -1,0 +1,18 @@
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject\ClockFormProject\bin\Debug\ClockFormProject.exe
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject\ClockFormProject\bin\Debug\ClockFormProject.pdb
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject\ClockFormProject\bin\Debug\ClockFormProject.xml
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject\ClockFormProject\obj\x86\Debug\ClockFormProject.Form1.resources
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject\ClockFormProject\obj\x86\Debug\ClockFormProject.Resources.resources
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject\ClockFormProject\obj\x86\Debug\ClockFormProject.vbproj.GenerateResource.Cache
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject\ClockFormProject\obj\x86\Debug\ClockFormProject.exe
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject\ClockFormProject\obj\x86\Debug\ClockFormProject.xml
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject\ClockFormProject\obj\x86\Debug\ClockFormProject.pdb
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject - Copy\ClockFormProject\obj\x86\Debug\ClockFormProject.exe
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject - Copy\ClockFormProject\obj\x86\Debug\ClockFormProject.xml
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject - Copy\ClockFormProject\obj\x86\Debug\ClockFormProject.pdb
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject - Copy\ClockFormProject\bin\Debug\ClockFormProject.exe
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject - Copy\ClockFormProject\bin\Debug\ClockFormProject.pdb
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject - Copy\ClockFormProject\bin\Debug\ClockFormProject.xml
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject - Copy\ClockFormProject\obj\x86\Debug\ClockFormProject.Form1.resources
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject - Copy\ClockFormProject\obj\x86\Debug\ClockFormProject.Resources.resources
+C:\Users\Dakni18\Desktop\VS Projects\ClockFormProject - Copy\ClockFormProject\obj\x86\Debug\ClockFormProject.vbproj.GenerateResource.Cache
